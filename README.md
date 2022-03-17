@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**@skchronicles**](https://github.com/skchronicles) _Sorcerer of Dark Bioinformagics_
+[**@skchronicles**](https://github.com/skchronicles) _Sorcerer of Bioinformagics_
 
 <a href="https://github.com/skchronicles">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=skchronicles&theme=radical&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=default&hide_border=true" />
