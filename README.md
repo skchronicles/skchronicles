@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-[**@skchronicles**](https://github.com/skchronicles) _Open Sorcerer of Bioinformagics_
+Welcome to my github! I am a bioinformatics scientist at [NIAID](https://www.niaid.nih.gov/research/research-technologies-branch-integrated-data-sciences) and the development team lead at [OpenOmics](https://github.com/OpenOmics). OpenOmics is a collaborative, open-source community on a mission to push science and bioinformatics forward.
 
-<a href="https://github.com/skchronicles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skchronicles&theme=radical&show_icons=true&count_private=true&custom_title=GitHub%20Stats&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/skchronicles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skchronicles&langs_count=8&layout=compact&hide=Roff&theme=default&hide_border=true" />
-</a>  
+We believe in open, reproducible, collaborative scientific research, and the strength of community led efforts. We recognize that together as a group we build strong! OpenOmics serves as a place to connect and engage with other community members, share ideas, and build pipelines & tools that enable the greater scientific community!
+
+[![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/skchronicles)
+
+[![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/skchronicles)
+
+[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/skchronicles)
